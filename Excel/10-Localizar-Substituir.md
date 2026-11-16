@@ -43,9 +43,7 @@ Na janela, existem dois campos:
 - `Substituir`: troca uma ocorrência por vez.
 - `Substituir tudo`: troca todas as ocorrências encontradas de uma vez.
 
----
-
-## Opções avançadas
+### Opções avançadas
 
 O Excel permite refinar a substituição para evitar alterações em dados que não deveriam ser modificados.
 
