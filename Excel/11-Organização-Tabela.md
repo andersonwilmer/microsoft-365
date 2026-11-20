@@ -6,7 +6,7 @@ A organização de tabelas permite visualizar os dados de diferentes maneiras, f
 
 ---
 
-## 🔤 Classificar dados
+## Classificar dados
 
 O recurso de classificação permite organizar os dados de acordo com uma ordem específica, como ordem alfabética ou valores numéricos.
 
@@ -40,7 +40,7 @@ Também é possível organizar os dados utilizando valores numéricos.
 
 ---
 
-## 🔽 Aplicar filtros
+## Aplicar filtros
 
 Os filtros permitem exibir somente os dados que atendem a determinados critérios, sem precisar excluir as demais informações da tabela.
 
@@ -60,7 +60,7 @@ Ao clicar nessas setas, você poderá:
 - Selecionar quais informações deseja visualizar.
 - Aplicar filtros numéricos e outras condições.
 
-### 🔢 Filtros numéricos
+### Filtros numéricos
 
 Os filtros também permitem definir condições para os valores numéricos.
 
@@ -68,7 +68,7 @@ Por exemplo, é possível exibir somente os produtos com quantidade **maior que 
 
 ![Filtro de quantidade maior que 30](Imagens/16-filtro-quantidade.png)
 
-### 🧹 Limpar filtros
+### Limpar filtros
 
 Para voltar a visualizar todos os registros, utilize a opção **Limpar Filtro** na seta da coluna filtrada.
 
