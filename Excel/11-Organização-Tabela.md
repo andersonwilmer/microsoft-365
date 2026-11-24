@@ -1,8 +1,8 @@
 # Organização de Tabelas
 
-A organização de tabelas permite visualizar os dados de diferentes maneiras, facilitando a consulta e a análise das informações.
-
 > **Data:** 20 de novembro de 2026
+
+A organização de tabelas permite visualizar os dados de diferentes maneiras, facilitando a consulta e a análise das informações.
 
 ---
 
